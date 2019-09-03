@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 public class Table extends Furniture {
 
     private boolean extensible;

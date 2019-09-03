@@ -1,12 +1,8 @@
-
-
-
-
 public abstract class Furniture {
 
-    protected Price price;
-    protected String material;
-    protected String producer;
+    Price price;
+    String material;
+    String producer;
 
     public Price getPrice() {
         return price;

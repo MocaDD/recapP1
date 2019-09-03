@@ -1,6 +1,3 @@
-
-
-
 public class Chair extends Furniture {
 
     public boolean withSeatBack;
